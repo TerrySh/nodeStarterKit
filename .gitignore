@@ -72,5 +72,5 @@ typings/
 # Serverless directories
 .serverless
 
-# Serverless directories
-.serverless
+# lock file
+package-lock.json
